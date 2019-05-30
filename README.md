@@ -19,3 +19,15 @@ Python for OOP exercise
 - Quizzes need to get graded
 - For each teacher, they can calculate each student's total grade accumulated over a semester
 - for their classes
+
+## Running
+
+Install packages 
+```bash
+pip install -r requirements.txt
+```
+
+Run Tests 
+```bash
+pytest test
+```
