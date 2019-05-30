@@ -1,6 +1,9 @@
 # School Manager
 An OOP Python exercise for TDD and Gherkin 
 
+[![Build Status](https://travis-ci.com/sblack4/SchoolManager.svg?branch=master)](https://travis-ci.com/sblack4/SchoolManager)
+
+
 ## About 
 Python for OOP exercise 
 - pytest for TDD
