@@ -1,0 +1,11 @@
+from school_manager.student import Student
+from school_manager.seminar import Seminar
+from school_manager.teacher import Teacher
+from school_manager.quiz import Quiz
+
+# __all__ = [
+#     'student',
+#     'teacher',
+#     'quiz',
+#     'seminar'
+# ]
